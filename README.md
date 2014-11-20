@@ -5,4 +5,4 @@ README
 
 Features:
 
-    * convert simple xml data
+    convert simple xml data
